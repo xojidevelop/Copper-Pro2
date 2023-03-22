@@ -1,0 +1,11 @@
+.card{
+    position: relative;
+    width: 289px;
+    margin: 0;
+}
+.sale{
+    position: absolut;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}

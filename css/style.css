@@ -1,0 +1,15 @@
+.card{
+    border: 2px solid green;
+}
+h1 {
+    font-family: 'Lighthaus';
+    text-align: center;
+    color: #031412;
+}
+
+.list {
+    list-style-type: none;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
